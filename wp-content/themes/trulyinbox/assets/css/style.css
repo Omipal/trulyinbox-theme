@@ -1,11 +1,11 @@
 /* Import fonts */
 @font-face {
   font-family: 'Matter';
-  src: url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-Medium.eot');
-  src: url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-Medium.eot#iefix') format('embedded-opentype'),
-      url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-Medium.woff2') format('woff2'),
-      url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-Medium.woff') format('woff'),
-      url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-Medium.ttf') format('truetype');
+  src: url('../fonts/Matter-Medium.eot');
+  src: url('../fonts/Matter-Medium.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Matter-Medium.woff2') format('woff2'),
+      url('../fonts/Matter-Medium.woff') format('woff'),
+      url('../fonts/Matter-Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -14,22 +14,22 @@
 
 @font-face {
   font-family: 'Matter';
-  src: url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-SemiBold.eot');
-  src: url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-SemiBold.eot#iefix') format('embedded-opentype'),
-      url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-SemiBold.woff2') format('woff2'),
-      url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-SemiBold.woff') format('woff'),
-      url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-SemiBold.ttf') format('truetype');
+  src: url('../fonts/Matter-SemiBold.eot');
+  src: url('../fonts/Matter-SemiBold.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Matter-SemiBold.woff2') format('woff2'),
+      url('../fonts/Matter-SemiBold.woff') format('woff'),
+      url('../fonts/Matter-SemiBold.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Matter';
-  src: url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-Regular.eot');
-  src: url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-Regular.eot#iefix') format('embedded-opentype'),
-      url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-Regular.woff2') format('woff2'),
-      url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-Regular.woff') format('woff'),
-      url('https://omipal.github.io/trulyinbox-theme/wp-content/themes/trulyinbox/assets/fonts/Matter-Regular.ttf') format('truetype');
+  src: url('../fonts/Matter-Regular.eot');
+  src: url('../fonts/Matter-Regular.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Matter-Regular.woff2') format('woff2'),
+      url('../fonts/Matter-Regular.woff') format('woff'),
+      url('../fonts/Matter-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -651,6 +651,9 @@ Responsive Css
   .nav-toggle{
     display: block;
   }
+  .header__btn {
+    display: none;
+}
 
   .primary-btn{
     font-size: var(--fs-16);
