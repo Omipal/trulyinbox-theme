@@ -1,0 +1,12 @@
+[2024-07-06 17:07:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/trulyinbox-theme
+[2024-07-06 17:07:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/trulyinbox-theme
+[2024-07-06 17:32:24] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/trulyinbox-theme
+[2024-07-06 17:32:25] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/trulyinbox-theme
+[2024-07-06 19:50:12] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/trulyinbox-theme
+[2024-07-06 19:50:15] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/trulyinbox-theme
+[2024-07-06 20:42:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/trulyinbox-theme
+[2024-07-06 20:42:07] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/trulyinbox-theme
+[2024-07-06 20:46:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/trulyinbox-theme
+[2024-07-06 20:46:32] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/trulyinbox-theme
+[2024-07-06 21:44:14] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/trulyinbox-theme
+[2024-07-06 21:44:15] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/trulyinbox-theme
